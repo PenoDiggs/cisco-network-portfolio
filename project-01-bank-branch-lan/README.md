@@ -17,7 +17,7 @@ This project is my answer to that question. I built a single bank branch network
 ## What the Network Looks Like
 
 ```
-![Network Topology] (
+(project-01-bank-branch-lan/Network Topology.png)
 ```
 
 ---
